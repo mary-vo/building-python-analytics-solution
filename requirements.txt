@@ -3,6 +3,5 @@ numpy
 seaborn
 matplotlib
 geopandas
-sklearn
 wordcloud
-seaborn
+scikit-learn
